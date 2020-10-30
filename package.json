@@ -254,7 +254,7 @@
     "nwsapi": "^2.2.0",
     "object-inspect": "^1.8.0",
     "object-copy": "^0.1.0",
-    "node-forge": "^0.7.6"
+    "node-forge": "^0.10.0"
   },
   "description": ""
 }
