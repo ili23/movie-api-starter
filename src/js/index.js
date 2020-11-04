@@ -6,7 +6,6 @@ import { DOMSelectors } from "./DOM";
 
 const apiKey = "ce2451628f94a825ae7f08aa5d55345e";
 const query = `https://api.themoviedb.org/3/discover/movie?api_key=${apiKey}&language=en-US&sort_by=vote_average.desc&include_adult=false&include_video=false&page=1&vote_count.gte=10000&vote_average.gte=8`;
-const genreQuery = `https://api.themoviedb.org/3/genre/movie/list?api_key=${apiKey}&language=en-US`;
 
 const init = async function () {
         try {
