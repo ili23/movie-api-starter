@@ -62,7 +62,7 @@
     "browser-process-hrtime": "^1.0.0",
     "buffer": "^4.9.2",
     "browserify-zlib": "^0.2.0",
-    "browserslist": "^4.14.5",
+    "browserslist": "^4.16.5",
     "buffer-equal": "^0.0.1",
     "buffer-xor": "^1.0.3",
     "builtin-status-codes": "^3.0.0",
